@@ -26,5 +26,7 @@ Cette application Android recrée ce jeu classique avec une interface simple et 
    git clone https://github.com/yourusername/jeu_simon.git
    cd jeu_simon
 ## Images
-![simon](image1.png)
-![simon](image2.png)
+
+<img src="image1.png" width="300" height="600" />
+<img src="image2.png" width="300" height="600" />
+
