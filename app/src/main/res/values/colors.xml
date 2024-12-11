@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="simon_green">#00FF00</color>
+    <color name="simon_red">#FF0000</color>
+    <color name="simon_yellow">#FFFF00</color>
+    <color name="simon_blue">#0000FF</color>
+    <color name="simon_green_pressed">#00CC00</color>
+    <color name="simon_red_pressed">#CC0000</color>
+    <color name="simon_yellow_pressed">#CCCC00</color>
+    <color name="simon_blue_pressed">#0000CC</color>
+</resources>
